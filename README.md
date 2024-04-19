@@ -2,7 +2,7 @@
   <a href="https://github.com/autifyhq/actions-mobile-build-upload"><img alt="actions-mobile-build-upload status" src="https://github.com/autifyhq/actions-mobile-build-upload/workflows/test/badge.svg"></a>
 </p>
 
-# Upload build to Autify for Mobile
+# Upload build to Autify for ju Mobile
 
 Upload a build file to Autify for Mobile.
 
